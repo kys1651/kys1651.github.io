@@ -1,6 +1,6 @@
 ---
-title: "첫 블로그 게시글"
-excerpt: "2022년 1월 31일 블로그 게시"
+title: "첫 게시글"
+excerpt: "2022년 1월 31일"
 
 categories:
   - Blog
@@ -14,4 +14,4 @@ comments: true
 
 # my first post
 
-Hi
+열심히 살아보려고 합니다 :V
