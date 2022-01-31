@@ -1,12 +1,37 @@
-# main links
-main:
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "Introduce"
-     url: /about/
-   - title: "Category"
-     url: "/categories/"
-   - title: "Tags"
-     url: /tags/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+# # main links
+# main:
+#    - title: "Home"
+#      url: http://kys1651.github.io/
+#    - title: "Introduce"
+#      url: /about/
+#    - title: "Category"
+#      url: "/categories/"
+#    - title: "Tags"
+#      url: /tags/
+#   # - title: "Sitemap"
+#   #   url: /sitemap/
+docs:
+  - title: Database
+    children:
+      - title: "Oracle"
+        url: oracle/
+        category: "oracle"
+      - title: "MS-SQL"
+        url: mssql/
+        category: "mssql"
+      - title: "MariaDB"
+        url: mariadb/
+        category: "mariadb"
+  - title: Server
+    children:
+      - title: "Ubuntu"
+        url: ubuntu/
+        category: "ubuntu"
+      - title: "Windows Server"
+        url: windows-server/
+        category: "windows-server"
+  - title: Etc
+    children:
+      - title: "Jekyll"
+        url: jekyll/
+        category: "jekyll"
