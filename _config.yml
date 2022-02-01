@@ -104,13 +104,13 @@ analytics:
 author:
   name             : "Kim YongSoo"
   avatar           : "https://avatars.githubusercontent.com/u/43926186?v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "열심히 살아야겠당. <br> 2021-01-31 ~ 현재 진행 중"
-  location         : "Republic of Korea"
+  bio              : "열심히 살아야겠당. <br> 2021-01-31 ~ "
+  location         : ""
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:akys159357@naver.com"
+      url: "mailto:akys159357@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://github.com/kys1651"
