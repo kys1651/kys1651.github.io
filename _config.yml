@@ -105,7 +105,7 @@ author:
   name             : "Kim YongSoo"
   avatar           : "https://avatars.githubusercontent.com/u/43926186?v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "열심히 살아야겠당. <br> 2021-01-31 ~ "
-  location         : ""
+  location         : #""
   email            : 
   links:
     - label: "Email"
